@@ -91,7 +91,7 @@ endmodule
 **Logic symbol & Truthtable**
 
 
-![Screenshot (12)](https://github.com/user-attachments/assets/a3424628-dbe4-4697-99db-f55833781ce1)
+![logic gate images](https://github.com/user-attachments/assets/71723bf5-0e76-4716-beb9-c967d5f60b14)
 
 **RTL realization Output:** 
 
