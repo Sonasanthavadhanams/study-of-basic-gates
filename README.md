@@ -1,6 +1,12 @@
 ### study-of-basic-gates
 Developed by: SONA.S
+
+
 RegisterNumber: 212224110049
+
+DATE : 14/03/2025 
+
+
 
 **AIM:** 
 
@@ -99,5 +105,5 @@ endmodule
 
 **Result:**
 
-Studied and verified the truth table of logic gates in Quartus II using Verilog programming successfully.
+Thus the truth table of basic logic gates are studied and verified in Quartus II using Verilog programming successfully.
 
